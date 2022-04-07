@@ -4,6 +4,10 @@ This project sought to explore and analyze potential factors contributing to glo
 
 ## Techniques: 
 Exploratory Analysis
-Data Cleaning and Preprocessing :The aggregated raw dataset required cleaning prior to commencing with data exploration or analysis. Data containing “NA'', or “0”, or a mathematical operator, such as “<”, was identified and removed from the dataset. 
+
+Data Cleaning and Preprocessing :
+The aggregated raw dataset required cleaning prior to commencing with data exploration or analysis. Data containing “NA'', or “0”, or a mathematical operator, such as “<”, was identified and removed from the dataset. 
+
 Used to analyze the data is Linear Discriminant Analysis
+
 Logistic regression
